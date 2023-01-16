@@ -1,0 +1,25 @@
+C:\Users\Wendel\source\repos\Project Int\Lista Telefonica\Lista Telefonica\bin\Debug\net6.0-windows\Lista Telefonica.exe
+C:\Users\Wendel\source\repos\Project Int\Lista Telefonica\Lista Telefonica\bin\Debug\net6.0-windows\Lista Telefonica.deps.json
+C:\Users\Wendel\source\repos\Project Int\Lista Telefonica\Lista Telefonica\bin\Debug\net6.0-windows\Lista Telefonica.runtimeconfig.json
+C:\Users\Wendel\source\repos\Project Int\Lista Telefonica\Lista Telefonica\bin\Debug\net6.0-windows\Lista Telefonica.dll
+C:\Users\Wendel\source\repos\Project Int\Lista Telefonica\Lista Telefonica\bin\Debug\net6.0-windows\Lista Telefonica.pdb
+C:\Users\Wendel\source\repos\Project Int\Lista Telefonica\Lista Telefonica\obj\Debug\net6.0-windows\Lista Telefonica.csproj.AssemblyReference.cache
+C:\Users\Wendel\source\repos\Project Int\Lista Telefonica\Lista Telefonica\obj\Debug\net6.0-windows\Lista_Telefonica.Form1.resources
+C:\Users\Wendel\source\repos\Project Int\Lista Telefonica\Lista Telefonica\obj\Debug\net6.0-windows\Lista Telefonica.csproj.GenerateResource.cache
+C:\Users\Wendel\source\repos\Project Int\Lista Telefonica\Lista Telefonica\obj\Debug\net6.0-windows\Lista Telefonica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wendel\source\repos\Project Int\Lista Telefonica\Lista Telefonica\obj\Debug\net6.0-windows\Lista Telefonica.AssemblyInfoInputs.cache
+C:\Users\Wendel\source\repos\Project Int\Lista Telefonica\Lista Telefonica\obj\Debug\net6.0-windows\Lista Telefonica.AssemblyInfo.cs
+C:\Users\Wendel\source\repos\Project Int\Lista Telefonica\Lista Telefonica\obj\Debug\net6.0-windows\Lista Telefonica.csproj.CoreCompileInputs.cache
+C:\Users\Wendel\source\repos\Project Int\Lista Telefonica\Lista Telefonica\obj\Debug\net6.0-windows\Lista Telefonica.dll
+C:\Users\Wendel\source\repos\Project Int\Lista Telefonica\Lista Telefonica\obj\Debug\net6.0-windows\refint\Lista Telefonica.dll
+C:\Users\Wendel\source\repos\Project Int\Lista Telefonica\Lista Telefonica\obj\Debug\net6.0-windows\Lista Telefonica.pdb
+C:\Users\Wendel\source\repos\Project Int\Lista Telefonica\Lista Telefonica\obj\Debug\net6.0-windows\Lista Telefonica.genruntimeconfig.cache
+C:\Users\Wendel\source\repos\Project Int\Lista Telefonica\Lista Telefonica\obj\Debug\net6.0-windows\ref\Lista Telefonica.dll
+C:\Users\Wendel\source\repos\Project Int\Lista Telefonica\Lista Telefonica\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\Wendel\source\repos\Project Int\Lista Telefonica\Lista Telefonica\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Wendel\source\repos\Project Int\Lista Telefonica\Lista Telefonica\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Wendel\source\repos\Project Int\Lista Telefonica\Lista Telefonica\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Wendel\source\repos\Project Int\Lista Telefonica\Lista Telefonica\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\Wendel\source\repos\Project Int\Lista Telefonica\Lista Telefonica\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\Wendel\source\repos\Project Int\Lista Telefonica\Lista Telefonica\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\Wendel\source\repos\Project Int\Lista Telefonica\Lista Telefonica\obj\Debug\net6.0-windows\Lista Telefonica.csproj.CopyComplete
